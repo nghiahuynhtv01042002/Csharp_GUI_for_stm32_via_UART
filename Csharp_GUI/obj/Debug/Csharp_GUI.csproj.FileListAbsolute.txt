@@ -1,0 +1,11 @@
+G:\visual studio ide\filesave_VSIDE\Csharp_GUI\Csharp_GUI\bin\Debug\Csharp_GUI.exe.config
+G:\visual studio ide\filesave_VSIDE\Csharp_GUI\Csharp_GUI\bin\Debug\Csharp_GUI.exe
+G:\visual studio ide\filesave_VSIDE\Csharp_GUI\Csharp_GUI\bin\Debug\Csharp_GUI.pdb
+G:\visual studio ide\filesave_VSIDE\Csharp_GUI\Csharp_GUI\obj\Debug\Csharp_GUI.csproj.AssemblyReference.cache
+G:\visual studio ide\filesave_VSIDE\Csharp_GUI\Csharp_GUI\obj\Debug\Csharp_GUI.csproj.SuggestedBindingRedirects.cache
+G:\visual studio ide\filesave_VSIDE\Csharp_GUI\Csharp_GUI\obj\Debug\Csharp_GUI.Form1.resources
+G:\visual studio ide\filesave_VSIDE\Csharp_GUI\Csharp_GUI\obj\Debug\Csharp_GUI.Properties.Resources.resources
+G:\visual studio ide\filesave_VSIDE\Csharp_GUI\Csharp_GUI\obj\Debug\Csharp_GUI.csproj.GenerateResource.cache
+G:\visual studio ide\filesave_VSIDE\Csharp_GUI\Csharp_GUI\obj\Debug\Csharp_GUI.csproj.CoreCompileInputs.cache
+G:\visual studio ide\filesave_VSIDE\Csharp_GUI\Csharp_GUI\obj\Debug\Csharp_GUI.exe
+G:\visual studio ide\filesave_VSIDE\Csharp_GUI\Csharp_GUI\obj\Debug\Csharp_GUI.pdb

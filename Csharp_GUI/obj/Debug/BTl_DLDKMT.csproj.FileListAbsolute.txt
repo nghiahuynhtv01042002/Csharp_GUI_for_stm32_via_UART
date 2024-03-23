@@ -1,0 +1,88 @@
+G:\visual studio ide\filesave_VSIDE\remake\1\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe.config
+G:\visual studio ide\filesave_VSIDE\remake\1\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\remake\1\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\remake\1\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.AssemblyReference.cache
+G:\visual studio ide\filesave_VSIDE\remake\1\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.SuggestedBindingRedirects.cache
+G:\visual studio ide\filesave_VSIDE\remake\1\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Form1.resources
+G:\visual studio ide\filesave_VSIDE\remake\1\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Properties.Resources.resources
+G:\visual studio ide\filesave_VSIDE\remake\1\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.GenerateResource.cache
+G:\visual studio ide\filesave_VSIDE\remake\1\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.CoreCompileInputs.cache
+G:\visual studio ide\filesave_VSIDE\remake\1\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\remake\1\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\remake\2\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe.config
+G:\visual studio ide\filesave_VSIDE\remake\2\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\remake\2\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\remake\2\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.AssemblyReference.cache
+G:\visual studio ide\filesave_VSIDE\remake\2\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.SuggestedBindingRedirects.cache
+G:\visual studio ide\filesave_VSIDE\remake\2\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Form1.resources
+G:\visual studio ide\filesave_VSIDE\remake\2\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Properties.Resources.resources
+G:\visual studio ide\filesave_VSIDE\remake\2\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.GenerateResource.cache
+G:\visual studio ide\filesave_VSIDE\remake\2\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.CoreCompileInputs.cache
+G:\visual studio ide\filesave_VSIDE\remake\2\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\remake\2\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\remake\3\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe.config
+G:\visual studio ide\filesave_VSIDE\remake\3\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\remake\3\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\remake\3\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.AssemblyReference.cache
+G:\visual studio ide\filesave_VSIDE\remake\3\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.SuggestedBindingRedirects.cache
+G:\visual studio ide\filesave_VSIDE\remake\3\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Form1.resources
+G:\visual studio ide\filesave_VSIDE\remake\3\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Properties.Resources.resources
+G:\visual studio ide\filesave_VSIDE\remake\3\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.GenerateResource.cache
+G:\visual studio ide\filesave_VSIDE\remake\3\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.CoreCompileInputs.cache
+G:\visual studio ide\filesave_VSIDE\remake\3\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\remake\3\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\remake\4\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe.config
+G:\visual studio ide\filesave_VSIDE\remake\4\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\remake\4\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\remake\4\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.AssemblyReference.cache
+G:\visual studio ide\filesave_VSIDE\remake\4\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.SuggestedBindingRedirects.cache
+G:\visual studio ide\filesave_VSIDE\remake\4\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Form1.resources
+G:\visual studio ide\filesave_VSIDE\remake\4\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Properties.Resources.resources
+G:\visual studio ide\filesave_VSIDE\remake\4\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.GenerateResource.cache
+G:\visual studio ide\filesave_VSIDE\remake\4\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.CoreCompileInputs.cache
+G:\visual studio ide\filesave_VSIDE\remake\4\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\remake\4\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\remake\final_final\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe.config
+G:\visual studio ide\filesave_VSIDE\remake\final_final\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\remake\final_final\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\remake\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.AssemblyReference.cache
+G:\visual studio ide\filesave_VSIDE\remake\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.SuggestedBindingRedirects.cache
+G:\visual studio ide\filesave_VSIDE\remake\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Form1.resources
+G:\visual studio ide\filesave_VSIDE\remake\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Properties.Resources.resources
+G:\visual studio ide\filesave_VSIDE\remake\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.GenerateResource.cache
+G:\visual studio ide\filesave_VSIDE\remake\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.CoreCompileInputs.cache
+G:\visual studio ide\filesave_VSIDE\remake\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\remake\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\BTLDLMT\final_final\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe.config
+G:\visual studio ide\filesave_VSIDE\BTLDLMT\final_final\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\BTLDLMT\final_final\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\BTLDLMT\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.AssemblyReference.cache
+G:\visual studio ide\filesave_VSIDE\BTLDLMT\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.SuggestedBindingRedirects.cache
+G:\visual studio ide\filesave_VSIDE\BTLDLMT\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Form1.resources
+G:\visual studio ide\filesave_VSIDE\BTLDLMT\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Properties.Resources.resources
+G:\visual studio ide\filesave_VSIDE\BTLDLMT\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.GenerateResource.cache
+G:\visual studio ide\filesave_VSIDE\BTLDLMT\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.CoreCompileInputs.cache
+G:\visual studio ide\filesave_VSIDE\BTLDLMT\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\BTLDLMT\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\BTLDLMT - Copy\final_final\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe.config
+G:\visual studio ide\filesave_VSIDE\BTLDLMT - Copy\final_final\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\BTLDLMT - Copy\final_final\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\BTLDLMT - Copy\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.AssemblyReference.cache
+G:\visual studio ide\filesave_VSIDE\BTLDLMT - Copy\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.SuggestedBindingRedirects.cache
+G:\visual studio ide\filesave_VSIDE\BTLDLMT - Copy\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Form1.resources
+G:\visual studio ide\filesave_VSIDE\BTLDLMT - Copy\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Properties.Resources.resources
+G:\visual studio ide\filesave_VSIDE\BTLDLMT - Copy\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.GenerateResource.cache
+G:\visual studio ide\filesave_VSIDE\BTLDLMT - Copy\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.CoreCompileInputs.cache
+G:\visual studio ide\filesave_VSIDE\BTLDLMT - Copy\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\BTLDLMT - Copy\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\Csharp_gui_basic\final_final\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe.config
+G:\visual studio ide\filesave_VSIDE\Csharp_gui_basic\final_final\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\Csharp_gui_basic\final_final\BTl_DLDKMT\BTl_DLDKMT\bin\Debug\BTl_DLDKMT.pdb
+G:\visual studio ide\filesave_VSIDE\Csharp_gui_basic\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.AssemblyReference.cache
+G:\visual studio ide\filesave_VSIDE\Csharp_gui_basic\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.SuggestedBindingRedirects.cache
+G:\visual studio ide\filesave_VSIDE\Csharp_gui_basic\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Form1.resources
+G:\visual studio ide\filesave_VSIDE\Csharp_gui_basic\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.Properties.Resources.resources
+G:\visual studio ide\filesave_VSIDE\Csharp_gui_basic\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.GenerateResource.cache
+G:\visual studio ide\filesave_VSIDE\Csharp_gui_basic\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.csproj.CoreCompileInputs.cache
+G:\visual studio ide\filesave_VSIDE\Csharp_gui_basic\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.exe
+G:\visual studio ide\filesave_VSIDE\Csharp_gui_basic\final_final\BTl_DLDKMT\BTl_DLDKMT\obj\Debug\BTl_DLDKMT.pdb
